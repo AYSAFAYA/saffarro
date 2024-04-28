@@ -1,0 +1,34 @@
+{
+    "trips":[
+        {
+            "title" : "4 Night Stay in Tehran",
+            "price" : "56000T",
+            "loc" : "iran", 
+            "id" : "1"
+        },
+        {
+            "title" : "4 Night Stay in Isfahan",
+            "price" : "69000T",
+            "loc" : "iran", 
+            "id" : "2"
+        },
+        {
+            "title" : "3 Night Stay in Ardabil",
+            "price" : "52000T",
+            "loc" : "iran", 
+            "id" : "3"
+        },
+        {
+            "title" : "4 Night Stay in Tabriz",
+            "price" : "78000T",
+            "loc" : "iran", 
+            "id" : "4"
+        },
+        {
+            "title" : "7 Night Stay in Istanbul",
+            "price" : "1209000T",
+            "loc" : "Turkey", 
+            "id" : "5"
+        }
+    ]
+}
